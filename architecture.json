@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-stream-of-consciousness-generational-conflict",
+  "title": "The Patient, Defeated Stain",
+  "tagline": "In a Parisian apartment choked by the past, a young man's internal paralysis collides with the relentless expectations of a family determined to shape his future.",
+  "target_words": 69905,
+  "actual_words": 69905,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Interior Paralysis vs. External Expectation",
+    "The Haunting of Memory and Regret",
+    "The Aesthetics of Decay and Exhaustion",
+    "The Failed Inheritance of Ambition"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Yellow Crime of Morning",
+      "words": 6355
+    },
+    {
+      "ch": 2,
+      "title": "A Wave of Combustible Sound",
+      "words": 6355
+    },
+    {
+      "ch": 3,
+      "title": "The Vault of Breakfast",
+      "words": 6355
+    },
+    {
+      "ch": 4,
+      "title": "Atmosphere of Tannery and Bone",
+      "words": 6355
+    },
+    {
+      "ch": 5,
+      "title": "The Predatory Leisure of Velvet",
+      "words": 6355
+    },
+    {
+      "ch": 6,
+      "title": "A Solvent of Rain and Regret",
+      "words": 6355
+    },
+    {
+      "ch": 7,
+      "title": "The Interrogation of Static",
+      "words": 6355
+    },
+    {
+      "ch": 8,
+      "title": "The Architecture of Exhaustion",
+      "words": 6355
+    },
+    {
+      "ch": 9,
+      "title": "The Patient, Defeated Stain",
+      "words": 6355
+    },
+    {
+      "ch": 10,
+      "title": "A Necropolis of Paper",
+      "words": 6355
+    },
+    {
+      "ch": 11,
+      "title": "The Lacquer of Peace",
+      "words": 6355
+    }
+  ]
+}
